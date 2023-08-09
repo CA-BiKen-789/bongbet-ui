@@ -35,22 +35,27 @@ function Home() {
         {
             urlImage: '/images/ho_tro_nap_rut.png',
             link: 'https://tawk.to/chat/649821bfcc26a871b0248efc/1h3p47l5r',
+            alt: 'Hỗ trợ nạp rút'
         },
         {
             urlImage: '/images/ho_tro_khuyen_mai.png',
             link: 'https://tawk.to/chat/6499407a94cf5d49dc5fd855/1h3ra7oq7',
+            alt: 'Hỗ trợ khuyến mãi'
         },
         {
             urlImage: '/images/goi_tong_dai.png',
             link: 'https://tawk.to/chat/649821bfcc26a871b0248efc/1h3p47l5r',
+            alt: 'Hỗ trợ tổng đài'
         },
         {
             urlImage: '/images/ho_tro_facebook.png',
             link: 'https://www.facebook.com/ThethaogiaitriBONGBET',
+            alt: 'Hỗ trợ facebook'
         },
         {
             urlImage: '/images/ho_tro_khieu_nai.png',
             link: 'https://t.me/khieunaibongbet',
+            alt: 'Hỗ trợ khiếu nại'
         },
     ]
 
