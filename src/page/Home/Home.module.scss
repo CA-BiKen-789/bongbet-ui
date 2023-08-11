@@ -1,6 +1,5 @@
 .banner {
     background: url(../../../public/images/banner.png) center / cover no-repeat;
-    // width: 1900;
     height: 80vh;
 }
 
@@ -63,4 +62,12 @@
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
+}
+
+.content {
+    background: url(../../../public/images/background_content.png) lightgray
+        center / cover no-repeat;
+}
+
+.content .wrapper-content {
 }

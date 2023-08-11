@@ -112,7 +112,57 @@ function Home() {
                     </div>
                 </div>
             </div>
-            <div className={cx('content')}>Content</div>
+            <div className={cx('content')}>
+                <div className={cx('wrapper-content')}>
+                    <div className={cx('connect')}>
+                        <div className={cx('title')}>
+                            <img src="/images/title_connect.png" alt="Các đường truyền tốc độ cao" />
+                        </div>
+                        <ul className={cx('connect-point')}>
+                            <li className={cx('connect-point_item')}>
+                                <a href="/">Cần Thơ</a>
+                            </li>
+                            <li className={cx('connect-point_item')}>
+                                <a href="/">Đà Nẵng</a>
+                            </li>
+                            <li className={cx('connect-point_item')}>
+                                <a href="/">Hồ Chí Minh</a>
+                            </li>
+                            <li className={cx('connect-point_item')}>
+                                <a href="/">Phú Quốc</a>
+                            </li>
+                            <li className={cx('connect-point_item')}>
+                                <a href="/">Nha Trang</a>
+                            </li>
+                            <li className={cx('connect-point_item')}>
+                                <a href="/">Hà Nội</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div className={cx('contact')}>
+                        <img src="/images/contact.png" alt="Liên hệ" />
+                    </div>
+                    <div className={cx('detail-bongbet')}>
+                        <div className={cx('question-answer')}>
+                            <h1>hỏi đáp về bongbet</h1>
+                            <p>Dưới đây là một vài câu hỏi của người chơi được chúng tôi tổng hợp lại.
+                                Nếu có bất kỳ thắc mắc sẽ được giải đáp chi tiết nhất.</p>
+                        </div>
+                        <button>xem chi tiết</button>
+                        <div className={cx('conclusion')}>
+                            <h1>KẾT LUẬN</h1>
+                            <p>Những điều bạn cần hiểu và biết về nhà cái <span>BONGBET</span> đã được đề cập khá cụ thể.
+                                Đây là một nhà cái cực kỳ uy tín và an toàn cho người chơi cá cược.
+                                Nhanh tay đăng ký ngay một tài khoản để chơi ngay nào!!!</p>
+                        </div>
+                        <div className={cx('register')}>
+                            <h1>ĐĂNG KÝ</h1>
+                            <p>Các bạn hãy truy cập ngay vào link <span>BONGBET</span>
+                                Đăng ký ngay cho mình một tài khoản để thỏa sức đam mê mình nhé</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div className={cx('footer')}>Footer</div>
         </div>
     );
