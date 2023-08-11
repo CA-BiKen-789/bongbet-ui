@@ -1,0 +1,65 @@
+.banner {
+    background: url(../../../public/images/banner.png) center / cover no-repeat;
+    height: 80vh;
+}
+
+.logo {
+    text-align: center;
+}
+
+.wrap-banner-content {
+    width: 72%;
+    margin: 50px auto;
+}
+
+.news-update {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    width: 844px;
+    height: 196px;
+}
+
+.multi-platform {
+    width: 461px;
+    height: 396px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.promotion_news {
+    width: 100%;
+    height: 65px;
+}
+
+.social-layout {
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 434px;
+    height: 311px;
+    margin: 18px 18px;
+    border-radius: 13px;
+    border: 3px solid #fff;
+    display: flex;
+    justify-content: center;
+    padding: 18px;
+}
+
+.social {
+    width: 288px;
+    display: grid;
+    gap: 20px 0px;
+    grid-template-columns: 120px 120px;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
