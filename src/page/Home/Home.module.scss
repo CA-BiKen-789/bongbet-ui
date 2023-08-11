@@ -1,6 +1,5 @@
 .content {
-    background: rgba(255, 255, 255, 0.8)
-        url(../../../public/images/background_content.png);
+    background: url(../../../public/images/background_content.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -25,6 +24,7 @@
 
 .connect-title img {
     width: 1220px;
+    margin-bottom: 20px;
 }
 
 .connect-point {
