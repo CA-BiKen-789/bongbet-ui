@@ -26,6 +26,7 @@ function Footer() {
                     </div>
                 </div>
                 <div className={cx('partner')}>
+                    <h1>Với các đối tác</h1>
                     <img src="/images/partner.png" alt="Đối tác" />
                 </div>
             </div>
